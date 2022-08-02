@@ -42,3 +42,6 @@ jobs:
              --aqua-key "${{ secrets.AQUA_KEY }}" \
              --aqua-secret "${{ secrets.AQUA_SECRET }}" \
              --artifact-path "fsaquasecorg1/graphql-vuln:${{ github.sha }}"
+             
+             
+             
